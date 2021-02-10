@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Eventica</string>
+    <string name="get_started">Get Started</string>
+    <string name="t_c">By getting started, I agree to the terms and conditions</string>
+    <string name="logo">logo</string>
+    <string name="component1">component1</string>
+    <string name="ie">ie</string>
+    <string name="ieee">ieee</string>
+    <string name="acm">acm</string>
+    <string name="rotaract">rotaract</string>
+    <string name="iste">iste</string>
+    <string name="iet">iet</string>
+    <string name="margin">margin</string>
+    <string name="ie_info">The Institution of Engineers, NITK Chapter is an exclusive technical club. We aim to enhance the technical expertise of our fellow members and the student community, while acknowledging the importance of interdisciplinary and social work. The members fall into three core Special Interest Groups (SIGs), namely Code, Gadget and Garage. We also have auxiliary SIGs for members who are passionate about literature, social service or robotics. Second years are eligible for recruitment.</string>
+    <string name="ieee_info">IEEE is the world\'s largest professional association advancing innovation and technological excellence for the benefit of humanity. IEEE NITK belongs to the Region 10 under Bangalore Section and is an award winning student branch and one of the biggest worldwide. Students who have taken IEEE Student Membership in their 1st year, directly qualify for the interview rounds during their second year. Other Non-Member Students need to give a screening test, to qualify for the interviews.</string>
+    <string name="acm_info">ACM NITK plans and organizes a wide range of events that include technical workshops, guest lectures, online events and various other competitions at NITK, throughout the year. Our members come from all disciplines, backgrounds and interests providing a forum for students to undertake technical projects, develop organisational and leadership skills, and find like-minded students to work with. Students are eligible for recruitment in at the start of their second year. For first years, it\'s an open invite to come and attend our events year round and get to know the seniors at the club.</string>
+    <string name="rotaract_info">Rotaract Club NITK Chapter is a socio-cultural club that is affiliated with the Surathkal division of Rotary International. The student members organize several events that not only raise awareness about specific causes but also proactively help redress problems in the local society through initiatives such as orphanage trips, marathons and beach cleanup drives. Recruitment process for the second years.</string>
+    <string name="iste_info">Indian Society for Technical Education - NITK Chapter is the oldest technical society at the National Institute of Technology Karnataka. Besides organizing technical and cultural events and competitions for students of the institution, ISTE - NITK also hosts a range of workshops and educational seminars. ISTE - NITK also strives to promote liberal arts of our members via Special Interest Groups within the club, including, but not limited to, computer science, electronics, mechanics and robotics, civil engineering, business , literature ,video editing, photography and digital content creation. Recruitments take place in second year.</string>
+    <string name="iet_info">IET NITK chapter is a exclusive technical club under IET london division.It is actively involved in inculcating a passion for innovation and appreciation for scientific temperament in the minds of those who have the potential to change the future. It conducts seminars and workshops throughout the academic calendar striving to impart techincal ,social and managerial skills to the students. IET plays an integral role in planning and organizing various events in the techno-cultural fests of the institute ie ENGINEER and INCIDENT. Recruitment process takes place for second years.</string>
+    <string name="clublogo">clubLogo</string>
+    <string name="please_sign_in_to_add_events">Please Sign-In to add Events</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="clubinfologo">clubInfoLogo</string>
+    <string name="event_details">Event Details</string>
+    <string name="club_info">Club Info</string>
+    <string name="enter_event_details">Enter Event Details</string>
+    <string name="submit">Submit</string>
+    <string name="club_manager">Club Manager</string>
+</resources>

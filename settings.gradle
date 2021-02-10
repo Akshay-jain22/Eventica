@@ -1,0 +1,2 @@
+rootProject.name='Eventica'
+include ':app'
